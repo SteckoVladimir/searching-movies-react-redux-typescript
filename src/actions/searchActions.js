@@ -10,7 +10,7 @@ export const searchMovie = (text) => (dispatch) => {
 
 export const fetchMovies = (text) => (dispatch) => {
   axios
-    .get(`http://www.omdbapi.com/?s=${text}&apikey=263d22d8`)
+    .get(`http://www.omdbapi.com/?s=${text}&apikey=b7a6d82f`)
     .then((response) =>
       dispatch({
         type: FETCH_MOVIES,
