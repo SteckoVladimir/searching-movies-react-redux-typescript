@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/searching-movies-react-redux-typescript/static/css/main.d23c9f67.chunk.css",
+    "main.js": "/searching-movies-react-redux-typescript/static/js/main.754ee0ab.chunk.js",
+    "main.js.map": "/searching-movies-react-redux-typescript/static/js/main.754ee0ab.chunk.js.map",
+    "runtime-main.js": "/searching-movies-react-redux-typescript/static/js/runtime-main.8d1f19b8.js",
+    "runtime-main.js.map": "/searching-movies-react-redux-typescript/static/js/runtime-main.8d1f19b8.js.map",
+    "static/js/2.a6c697f2.chunk.js": "/searching-movies-react-redux-typescript/static/js/2.a6c697f2.chunk.js",
+    "static/js/2.a6c697f2.chunk.js.map": "/searching-movies-react-redux-typescript/static/js/2.a6c697f2.chunk.js.map",
+    "index.html": "/searching-movies-react-redux-typescript/index.html",
+    "static/css/main.d23c9f67.chunk.css.map": "/searching-movies-react-redux-typescript/static/css/main.d23c9f67.chunk.css.map",
+    "static/js/2.a6c697f2.chunk.js.LICENSE.txt": "/searching-movies-react-redux-typescript/static/js/2.a6c697f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d1f19b8.js",
+    "static/js/2.a6c697f2.chunk.js",
+    "static/css/main.d23c9f67.chunk.css",
+    "static/js/main.754ee0ab.chunk.js"
+  ]
+}
