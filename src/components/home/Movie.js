@@ -8,12 +8,14 @@ import Spinner from '../layout/Spinner'
 
 export class Movie extends Component {
   componentDidMount() {
+    // деструктуризация this.props тут не пошешала бы
     this.props.fetchMovie(this.props.match.params.id)
     this.props.setLoading()
   }
   render() {
     const { loading, movie } = this.props
 
+    // почему тут let, и ниже тоже?
     let movieInfo = (
       <div className="container">
         <div className="row">
