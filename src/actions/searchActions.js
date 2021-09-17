@@ -11,6 +11,7 @@ export const searchMovie = (text) => (dispatch) => {
 export const fetchMovies = (text) => (dispatch) => {
   axios
     .get(`https://www.omdbapi.com/?s=${text}&apikey=b7a6d82f`)
+  // опять таки урлу к апи и apikey стоит в .env выносить
     .then((response) =>
       dispatch({
         type: FETCH_MOVIES,
